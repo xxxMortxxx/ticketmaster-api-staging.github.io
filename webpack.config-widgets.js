@@ -24,7 +24,7 @@ var configWidget = (folderName)=> {
 	return [
 		{
 			name: "main-widget",
-			entry: `./products-and-docs/widgets/${folderName}/1.0.0/src/main-widget.es6`,
+			entry: {script: [ (folderName === 'calendar')?'babel-polyfill':'',`./products-and-docs/widgets/${folderName}/1.0.0/src/main-widget.es6`] },
 			output: {
 				filename: `./products-and-docs/widgets/${folderName}/1.0.0/lib/main-widget.js`,
 				library: "widgetsLib" // global library of widgets
