@@ -39,7 +39,7 @@
 															<li>
 																<a href="/partners/certified-partners/#{{id}}"
 																	 aria-controls="{{id}}"
-																	 class="{% if page.groupName == {{groupName}} and page.categories[1] == 'certified' and page.categories[2] != 'nexus' %}active{% endif %}">{{groupName}}</a>
+																	 class="{% if forloop.first == true and page.categories[1] == 'certified' and page.categories[2] != 'nexus' %}active{% endif %}">{{groupName}}</a>
 															</li>
 														{%assign id = nil%}
 													{% endfor %}

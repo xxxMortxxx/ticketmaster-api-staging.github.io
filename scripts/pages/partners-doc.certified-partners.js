@@ -1,6 +1,7 @@
 var tabHander = function () {
 	//enable link to tab
 	var hash = window.location.hash;
+	var menuItems = $('.sections li a','#scrollable-element');
 	if (hash) {
 		$('.nav-tabs a[href="'+hash+'"]').tab('show');
 	}
@@ -9,15 +10,22 @@ var tabHander = function () {
 	function hashUpdate(e) {
 		window.location.hash = e.target.hash;
 	}
-	$('.nav-tabs a').on('shown', hashUpdate);
+	function menuUpdate(e) {		
+		hashUpdate(e);
+		menuItems.removeClass('active');
+		$('.sections li a[aria-controls ="'+e.target.getAttribute('aria-controls')+'"]','#scrollable-element').addClass('active');
+	}
+	$('.nav-tabs a').on('shown', hashUpdate).on('click', menuUpdate);
 
 	//left menu listener
 	$('.sections li a','#scrollable-element').on('click', function(e) {
 		e.preventDefault();
-		// Find the target tab li (or anchor) that links to the content to show.
+		// Find the target tab li (or anchor) that links to the content to show.		
 		$('.nav-tabs li a[aria-controls="'+ e.target.getAttribute("aria-controls") +'"]').tab('show');
 		hashUpdate(e);
 		window.scrollTo(0,0);
+		$(this).parent().siblings('li').find('a').removeClass('active');
+		$(this).addClass('active');
 	});
 };
 

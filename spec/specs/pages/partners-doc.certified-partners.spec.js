@@ -86,7 +86,8 @@ describe("tabs hander", () => {
 		let e = new $.Event('click');
 		e.preventDefault = jest.fn();
 		let el = $('a#two');
-		 el.trigger('click');
+		 el.trigger(e);
+		$('.nav-tabs a').first().trigger(e);
 		expect($.fn.tab).toBeCalled();
 	});
 
@@ -96,5 +97,4 @@ describe("tabs hander", () => {
 		card1.trigger('mouseenter');
 		expect(card1.hasClass('applyflip')).toBeTruthy();
 	});
-	
 });
