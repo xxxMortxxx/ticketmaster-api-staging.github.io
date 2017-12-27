@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="8" failures="0" name="User apps" skipped="0" tests="8" time="12.44" timestamp="2017-12-361 12:36:08"><testcase name="(Pantheon|Add new App) Add new App negative [2.1.15 Add New App - The required field is empty]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(Pantheon|Add new App) [2.1.5 Add new App with values positive]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(Pantheon|Edit App) Edit app with empty required fields negative"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(Pantheon|Edit App) Edit app positive [2.1.8 Edit application]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(Pantheon|Delete App) Delete App positive [2.1.9 Delete application]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase></testsuite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="PD  widget  universal checkout" skipped="0" tests="1" time="1.4" timestamp="2017-12-361 12:38:14"><testcase name="(/products-and-docs/widgets/checkout/) [3.1.3 Widget checkout "><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Widget_UniversalCheckoutSteps.openPage(PD_Widget_UniversalCheckoutSteps.java:13)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Widget_UniversalCheckoutDefinition.openEventDiscoveryWidgetPage(PD_Widget_UniversalCheckoutDefinition.java:15)
+</system-err></testcase></testsuite>

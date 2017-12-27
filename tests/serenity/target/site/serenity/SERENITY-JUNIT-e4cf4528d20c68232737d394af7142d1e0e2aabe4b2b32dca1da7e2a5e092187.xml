@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="4" failures="0" name="Partners  nexus" skipped="0" tests="4" time="6.24" timestamp="2017-12-361 12:36:30"><testcase name="(/partners/certified-partners/nexus/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.partners.Partners_NexusSteps.openPage(Partners_NexusSteps.java:14)
+com.tkmdpa.taf.definitions.partners.Partners_NexusDefinition.openNexusPage(Partners_NexusDefinition.java:16)
+</system-err></testcase><testcase name="(/partners/certified-partners/nexus/) Verification of successfull message sending when paid"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.partners.Partners_NexusSteps.openPage(Partners_NexusSteps.java:14)
+com.tkmdpa.taf.definitions.partners.Partners_NexusDefinition.openNexusPage(Partners_NexusDefinition.java:16)
+</system-err></testcase><testcase name="(/partners/certified-partners/nexus/) Verification of successfull message sending when free"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.partners.Partners_NexusSteps.openPage(Partners_NexusSteps.java:14)
+com.tkmdpa.taf.definitions.partners.Partners_NexusDefinition.openNexusPage(Partners_NexusDefinition.java:16)
+</system-err></testcase><testcase name="(/partners/certified-partners/nexus/) Verification of allowed symbols in description"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.partners.Partners_NexusSteps.openPage(Partners_NexusSteps.java:14)
+com.tkmdpa.taf.definitions.partners.Partners_NexusDefinition.openNexusPage(Partners_NexusDefinition.java:16)
+</system-err></testcase></testsuite>

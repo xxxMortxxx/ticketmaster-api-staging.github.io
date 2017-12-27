@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="17" failures="0" name="PD API explorer v2" skipped="0" tests="17" time="25.1" timestamp="2017-12-361 12:36:42"><testcase name="(/api-explorer/v2) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_APIExplorerV2Steps.openPage(PD_APIExplorerV2Steps.java:15)
+com.tkmdpa.taf.definitions.products_and_docs.PD_APIExplorerV2Definition.openAPIExplorerPage(PD_APIExplorerV2Definition.java:17)
+</system-err></testcase><testcase name="TKMDPA-5334 (Open Graph Support) [1.1.51 Verify tags are present in source code]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_APIExplorerV2Steps.openPage(PD_APIExplorerV2Steps.java:15)
+com.tkmdpa.taf.definitions.products_and_docs.PD_APIExplorerV2Definition.openAPIExplorerPage(PD_APIExplorerV2Definition.java:17)
+</system-err></testcase><testcase name="TKMDPA-5346 (The parameters section is opened) [5.2.2 API Explorer V2 "><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_APIExplorerV2Steps.openPage(PD_APIExplorerV2Steps.java:15)
+com.tkmdpa.taf.definitions.products_and_docs.PD_APIExplorerV2Definition.openAPIExplorerPage(PD_APIExplorerV2Definition.java:17)
+</system-err></testcase><testcase name="TKMDPA-5351 (The request list contains url and block) [5.2.3 API Explorer V2 "><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_APIExplorerV2Steps.openPage(PD_APIExplorerV2Steps.java:15)
+com.tkmdpa.taf.definitions.products_and_docs.PD_APIExplorerV2Definition.openAPIExplorerPage(PD_APIExplorerV2Definition.java:17)
+</system-err></testcase></testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="4" failures="0" name="PD SD ks" skipped="0" tests="4" time="6.76" timestamp="2017-12-361 12:37:24"><testcase name="(/products-and-docs/sdks/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_SDKsSteps.openPage(PD_SDKsSteps.java:17)
+com.tkmdpa.taf.definitions.products_and_docs.PD_SDKsDefinition.openSDKsPage(PD_SDKsDefinition.java:22)
+</system-err></testcase><testcase name="(products-and-docs/sdks/) Verification for all the page's links"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_SDKsSteps.openPage(PD_SDKsSteps.java:17)
+com.tkmdpa.taf.definitions.products_and_docs.PD_SDKsDefinition.openSDKsPage(PD_SDKsDefinition.java:22)
+</system-err></testcase></testsuite>

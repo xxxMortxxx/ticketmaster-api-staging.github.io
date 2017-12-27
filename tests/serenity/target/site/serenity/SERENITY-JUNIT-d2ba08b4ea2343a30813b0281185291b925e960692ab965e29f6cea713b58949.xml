@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="6" failures="0" name="Map widget" skipped="0" tests="6" time="9.5" timestamp="2017-12-361 12:40:18"><testcase name="(/products-and-docs/widgets/map/) [3.7.1 Map widget "><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Widget_MapSteps.openPage(PD_Widget_MapSteps.java:17)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Widget_MapDefinition.openMapWidgetPage(PD_Widget_MapDefinition.java:23)
+</system-err></testcase><testcase name="(/products-and-docs/widgets/map/) [3.7.2 Map widget "><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Widget_MapSteps.openPage(PD_Widget_MapSteps.java:17)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Widget_MapDefinition.openMapWidgetPage(PD_Widget_MapDefinition.java:23)
+</system-err></testcase><testcase name="(/products-and-docs/widgets/map/) [3.7.3 Map widget "><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Widget_MapSteps.openPage(PD_Widget_MapSteps.java:17)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Widget_MapDefinition.openMapWidgetPage(PD_Widget_MapDefinition.java:23)
+</system-err></testcase><testcase name="(/products-and-docs/widgets/map/) [3.7.4 Map widget "><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Widget_MapSteps.openPage(PD_Widget_MapSteps.java:17)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Widget_MapDefinition.openMapWidgetPage(PD_Widget_MapDefinition.java:23)
+</system-err></testcase><testcase name="(/products-and-docs/widgets/map/) [3.7.7 Map widget "><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Widget_MapSteps.openPage(PD_Widget_MapSteps.java:17)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Widget_MapDefinition.openMapWidgetPage(PD_Widget_MapDefinition.java:23)
+</system-err></testcase><testcase name="(/products-and-docs/widgets/map/) Event message - Check event message for invalid API Key"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Widget_MapSteps.openPage(PD_Widget_MapSteps.java:17)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Widget_MapDefinition.openMapWidgetPage(PD_Widget_MapDefinition.java:23)
+</system-err></testcase></testsuite>

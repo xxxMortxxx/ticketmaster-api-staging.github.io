@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="3" failures="0" name="Support  contact us" skipped="0" tests="3" time="4.46" timestamp="2017-12-361 12:38:55"><testcase name="(/support/contact-us/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.support.Support_ContactUsSteps.openPage(Support_ContactUsSteps.java:14)
+com.tkmdpa.taf.definitions.support.Support_ContactUsDefinition.givenOpenContactUsPage(Support_ContactUsDefinition.java:20)
+</system-err></testcase><testcase name="(/support/contact-us/) Verification of successfull message"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.support.Support_ContactUsSteps.openPage(Support_ContactUsSteps.java:14)
+com.tkmdpa.taf.definitions.support.Support_ContactUsDefinition.givenOpenContactUsPage(Support_ContactUsDefinition.java:20)
+</system-err></testcase><testcase name="(/support/contact-us/) Verification of allowed symbols in description"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.support.Support_ContactUsSteps.openPage(Support_ContactUsSteps.java:14)
+com.tkmdpa.taf.definitions.support.Support_ContactUsDefinition.givenOpenContactUsPage(Support_ContactUsDefinition.java:20)
+</system-err></testcase></testsuite>

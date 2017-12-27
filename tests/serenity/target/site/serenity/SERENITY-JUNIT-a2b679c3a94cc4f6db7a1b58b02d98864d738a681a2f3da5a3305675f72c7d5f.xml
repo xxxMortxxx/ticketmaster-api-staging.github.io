@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="PD  inventory status API" skipped="0" tests="1" time="1.34" timestamp="2017-12-361 12:37:18"><testcase name="(/products-and-docs/apis/inventory-status/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_InventoryStatusAPISteps.openPage(PD_InventoryStatusAPISteps.java:21)
+com.tkmdpa.taf.definitions.products_and_docs.PD_InventoryStatusAPIDefinition.openInventoryStatusAPIPage(PD_InventoryStatusAPIDefinition.java:28)
+</system-err></testcase></testsuite>

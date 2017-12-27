@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="3" failures="0" name="Feedback widget" skipped="0" tests="3" time="4.2" timestamp="2017-12-361 12:40:13"><testcase name="(feedback widget) Check that Feedback widget Elements are shown"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Tutorials_WidgetsSteps.openPage(PD_Tutorials_WidgetsSteps.java:19)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Tutorials_WidgetsDefinition.openTutorialsWidgetsPage(PD_Tutorials_WidgetsDefinition.java:23)
+</system-err></testcase><testcase name="(feedback widget) [3.1.1 Feedback widget sanity]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Tutorials_WidgetsSteps.openPage(PD_Tutorials_WidgetsSteps.java:19)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Tutorials_WidgetsDefinition.openTutorialsWidgetsPage(PD_Tutorials_WidgetsDefinition.java:23)
+</system-err></testcase><testcase name="(feedback widget) Verification of allowed symbols in description"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Tutorials_WidgetsSteps.openPage(PD_Tutorials_WidgetsSteps.java:19)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Tutorials_WidgetsDefinition.openTutorialsWidgetsPage(PD_Tutorials_WidgetsDefinition.java:23)
+</system-err></testcase></testsuite>

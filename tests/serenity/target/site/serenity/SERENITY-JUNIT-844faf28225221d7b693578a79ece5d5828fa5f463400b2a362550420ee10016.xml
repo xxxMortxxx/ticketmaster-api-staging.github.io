@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="3" failures="0" name="User log in" skipped="0" tests="3" time="4.68" timestamp="2017-12-361 12:36:21"><testcase name="(developer-acct.ticketmaster.com/user/login) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/login) [2.2.3.2 Login - Username/Email field - enter invalid username]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/login) [2.2.3.8 Login - OpenID field - invalid OpenID]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase></testsuite>

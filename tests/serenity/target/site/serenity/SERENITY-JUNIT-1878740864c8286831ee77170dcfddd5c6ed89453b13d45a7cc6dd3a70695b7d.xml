@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="PD  discovery apiv1" skipped="0" tests="1" time="1.39" timestamp="2017-12-361 12:37:10"><testcase name="(/products-and-docs/apis/discovery-api/v1/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_DiscoveryAPIv1Steps.openPage(PD_DiscoveryAPIv1Steps.java:20)
+com.tkmdpa.taf.definitions.products_and_docs.PD_DiscoveryAPIv1Definition.openDiscoveryAPIv1Page(PD_DiscoveryAPIv1Definition.java:28)
+</system-err></testcase></testsuite>

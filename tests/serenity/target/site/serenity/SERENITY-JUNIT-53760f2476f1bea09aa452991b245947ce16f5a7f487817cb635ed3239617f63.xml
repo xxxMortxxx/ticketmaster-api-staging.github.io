@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="3" failures="0" name="Summary widget" skipped="0" tests="3" time="4.66" timestamp="2017-12-361 12:40:27"><testcase name="(summary widget) TKMDPA-870 Summary widget check for Getting Started page"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_GettingStartedSteps.openPage(PD_GettingStartedSteps.java:25)
+com.tkmdpa.taf.definitions.products_and_docs.PD_GettingStartedDefinition.openGettingStartedPage(PD_GettingStartedDefinition.java:29)
+</system-err></testcase><testcase name="(summary widget) TKMDPA-870 Summary widget check for Home page"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(summary widget) TKMDPA-870 Summary widget check for API Explorer page"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_APIExplorerSteps.openPage(PD_APIExplorerSteps.java:15)
+com.tkmdpa.taf.definitions.products_and_docs.PD_APIExplorerDefinition.openAPIExplorerPage(PD_APIExplorerDefinition.java:32)
+</system-err></testcase></testsuite>

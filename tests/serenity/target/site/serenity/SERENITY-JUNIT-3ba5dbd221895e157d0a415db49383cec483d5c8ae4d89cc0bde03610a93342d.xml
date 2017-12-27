@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Support  branding guide" skipped="0" tests="1" time="1.33" timestamp="2017-12-361 12:38:54"><testcase name="(/support/branding-guide/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.support.Support_BrandingGuideSteps.openPage(Support_BrandingGuideSteps.java:14)
+com.tkmdpa.taf.definitions.support.Support_BrandingGuideDefinition.givenOpenBrandingGuidePage(Support_BrandingGuideDefinition.java:15)
+</system-err></testcase></testsuite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="PD  widget  word press" skipped="0" tests="1" time="1.67" timestamp="2017-12-361 12:38:16"><testcase name="(/products-and-docs/widgets/wordpress/) [3.1.4 Wordpress widget "><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_Widget_WordPressWidgetSteps.openPage(PD_Widget_WordPressWidgetSteps.java:13)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Widget_WordPressDefinition.openEventDiscoveryWidgetPage(PD_Widget_WordPressDefinition.java:14)
+</system-err></testcase></testsuite>

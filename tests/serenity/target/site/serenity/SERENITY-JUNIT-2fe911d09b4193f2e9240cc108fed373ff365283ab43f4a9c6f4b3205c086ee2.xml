@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Support FAQ" skipped="0" tests="1" time="1.38" timestamp="2017-12-361 12:39:00"><testcase name="(/support/faq/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.support.Support_FAQSteps.openPage(Support_FAQSteps.java:14)
+com.tkmdpa.taf.definitions.support.Support_FAQDefinition.givenOpenFAQPage(Support_FAQDefinition.java:15)
+</system-err></testcase></testsuite>

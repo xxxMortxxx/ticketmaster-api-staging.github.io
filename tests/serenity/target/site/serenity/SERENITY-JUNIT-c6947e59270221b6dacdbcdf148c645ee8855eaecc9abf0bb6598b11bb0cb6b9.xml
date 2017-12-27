@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="PD  getting started" skipped="0" tests="2" time="3.35" timestamp="2017-12-361 12:37:13"><testcase name="(/products-and-docs/apis/getting-started/) TKMDPA-874 Commerce API links in Available Resources table"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_CommerceAPISteps.openPage(PD_CommerceAPISteps.java:22)
+com.tkmdpa.taf.definitions.products_and_docs.PD_ComerceAPIDefinition.openCommerceAPIPage(PD_ComerceAPIDefinition.java:28)
+</system-err></testcase><testcase name="(/products-and-docs/apis/getting-started/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_GettingStartedSteps.openPage(PD_GettingStartedSteps.java:25)
+com.tkmdpa.taf.definitions.products_and_docs.PD_GettingStartedDefinition.openGettingStartedPage(PD_GettingStartedDefinition.java:29)
+</system-err></testcase></testsuite>

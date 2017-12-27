@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="9" failures="0" name="Create new account" skipped="0" tests="9" time="17.56" timestamp="2017-12-361 12:35:46"><testcase name="(developer-acct.ticketmaster.com/user/register) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/register) [2.2.3.14 Create New Account - fail the CAPTCHA check]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/register) [2.2.3.31 Edit Profile - I Agree To The Terms &amp; Conditions checkbox]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/register) [Create New Account - First Name validation]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/register) [Create New Account - Company Name validation]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/register) [Create New Account - Company Name validation]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/register) [Create New Account - Company Site URL validation]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/register) [Create New Account - Username validation]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase><testcase name="(developer-acct.ticketmaster.com/user/register) [Create New Account - Email validation]"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.site.HomePageSteps.openPage(HomePageSteps.java:16)
+com.tkmdpa.taf.definitions.site.HomePageDefinition.openHomePage(HomePageDefinition.java:27)
+</system-err></testcase></testsuite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="PD  publish API" skipped="0" tests="1" time="1.36" timestamp="2017-12-361 12:37:23"><testcase name="(/products-and-docs/apis/publish/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_PublishAPISteps.openPage(PD_PublishAPISteps.java:20)
+com.tkmdpa.taf.definitions.products_and_docs.PD_PublishAPIDefinition.openPublishAPIPage(PD_PublishAPIDefinition.java:24)
+</system-err></testcase></testsuite>

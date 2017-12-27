@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="PD  change log" skipped="0" tests="1" time="1.54" timestamp="2017-12-361 12:37:07"><testcase name="(/products-and-docs/apis/changelog/) Verification for general page's elements"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+com.tkmdpa.taf.steps.products_and_docs.PD_ChangeLogSteps.openPage(PD_ChangeLogSteps.java:14)
+com.tkmdpa.taf.definitions.products_and_docs.PD_ChangeLogDefinition.openChangeLogPage(PD_ChangeLogDefinition.java:15)
+</system-err></testcase></testsuite>
